@@ -1,5 +1,5 @@
 # My Computer Networking Fundamentals Notes
-## My Notes from the “Chai aur DevOps” Networking Bootcamp
+## My Notes from the Networking Bootcamp
 
 > **My goal:** I am using these notes to understand networking fundamentals from the ground up, especially for DevOps and cloud. I have kept the lesson's main order and examples, and added clarifications where a simplified explanation could otherwise confuse me later.
 
